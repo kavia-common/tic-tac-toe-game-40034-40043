@@ -1,0 +1,4 @@
+{
+    "command": "CI=true PORT=<port> HOST=<host> npm run dev",
+    "working_directory": "/home/kavia/workspace/code-generation/tic-tac-toe-game-40034-40043/tic_tac_toe_backend"
+}
